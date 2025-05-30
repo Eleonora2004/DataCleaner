@@ -81,5 +81,5 @@ Bob
 63000.0
 0
 1
-This project is licensed under the Apache 2.0 License. See the LICENSE file for deta
+This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
 Contributions are welcome! Please review the CONTRIBUTING.md and CODE_OF_CONDUCT.md files before submitting a pull request.
