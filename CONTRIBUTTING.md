@@ -29,4 +29,10 @@ Thank you for your interest in contributing!
 ## Code of Conduct
 
 By participating in this project, you agree to abide by the [Code of Conduct](CODE_OF_CONDUCT.md).
+## Running Tests
+
+Before submitting a pull request, please ensure that your code passes all tests:
+
+```bash
+python -m unittest discover tests/
 
