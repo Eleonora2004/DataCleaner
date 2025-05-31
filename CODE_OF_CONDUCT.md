@@ -34,13 +34,11 @@ This Code of Conduct applies within all project spaces, and it also applies when
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [INSERT EMAIL ADDRESS]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at:  
+📧 **eleonora@example.com**
 
-Project maintainers who do not :contentReference[oaicite:12]{index=12}
-## 🧪 Running Tests
+All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
 
-Before submitting a pull request, please ensure that your code passes all tests:
+---
 
-```bash
-python -m unittest discover tests/
-
+_This Code of Conduct is adapted from the Contributor Covenant, version 2.1_
