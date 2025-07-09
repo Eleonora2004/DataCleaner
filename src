@@ -1,1 +1,6 @@
-
+mkdir src
+# (Optionally add a file inside it, e.g.)
+touch src/.gitkeep
+git add src/.gitkeep
+git commit -m "Create src folder"
+git push
