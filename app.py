@@ -28,3 +28,4 @@ if uploaded_file:
 
     csv = df_cleaned.to_csv(index=False).encode("utf-8")
     st.download_button("Download Cleaned CSV", csv, "cleaned_data.csv", "text/csv")
+    from src.cleaner import DataCleaner
